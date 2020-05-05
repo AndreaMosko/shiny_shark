@@ -1,0 +1,13 @@
+name: SharkTank
+title: SharkTank
+username:
+account: andreamoskovljevic
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1601408
+bundleId: 2669551
+url: https://andreamoskovljevic.shinyapps.io/SharkTank/
+when: 1576431121.14916
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rapp.history

@@ -1,0 +1,12 @@
+name: EDA_SharkTank
+title: EDA_SharkTank
+username:
+account: andreamoskovljevic
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1601396
+bundleId: 2669409
+url: https://andreamoskovljevic.shinyapps.io/EDA_SharkTank/
+when: 1576425778.44022
+asMultiple: FALSE
+asStatic: FALSE
